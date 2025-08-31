@@ -1,3 +1,16 @@
-## Hi there 👋
+# Hi, I'm Brandon 👋
 
-My name is Brandon, and I'm taking this class to wrap up my associates and work towards a Bachelor's in Computer Science. I'm interested in computers, tech, coding, video games, camping, hiking, dirt bikes, and competition shooting. I have some very minor experience with coding, but no formal education. I'm looking forward to getting a solid foundation from this class on coding fundamentals and workflow.
+## About Me
+Currently taking CSC-134 and getting ready to learn C++!
+
+## My Foo (special interest) 🎯
+I'm interested in computers, tech, coding, video games, camping, hiking, dirt bikes, and competition shooting.
+
+## Currently Learning
+- C++, HTML, Python, K8s
+
+## Fun Fact
+I have some very minor experience with coding, but no formal education. I am entirely self taught #youtubeuniversity
+
+## Find Me
+- 📫 Right here on GitHub!
